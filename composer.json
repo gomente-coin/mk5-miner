@@ -1,0 +1,10 @@
+{
+    "name": "gomente-coin/mk5-miner",
+    "description": "MK5 mining script",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
+    },
+    "license": "MIT",
+    "minimum-stability": "stable"
+}
